@@ -30,6 +30,7 @@ Simple media manager for your Laravel project. This package lets you open your f
 - Laravel 5
 
 # Tested
+- [x] Laravel 5.7
 - [ ] Laravel 5.6
 - [x] Laravel 5.5
 - [x] Laravel 5.4
@@ -348,7 +349,7 @@ return [
 ```
 
 # Authors
-This package was first initialized by [@nauvalazhar](https://github.com/nauvalazhar) and maintained by [@itskodinger](https://github.com/itskodinger). Then, it became extraordinary by all contributors: [@rizalfakhri12](https://github.com/rizalfakhri12) [@mrofi](https://github.com/mrofi) [@captainspain](https://github.com/captainspain) [@zeroseed](https://github.com/zeroseed)
+This package was first initialized by [@nauvalazhar](https://github.com/nauvalazhar) and maintained by [@itskodinger](https://github.com/itskodinger). Then, it became extraordinary by all contributors: [@rizalfakhri12](https://github.com/rizalfakhri12) [@mrofi](https://github.com/mrofi) [@captainspain](https://github.com/captainspain) [@zeroseed](https://github.com/zeroseed) [@tpaksu](https://github.com/tpaksu)
 
 # License
 [MIT License](https://github.com/itskodinger/midia/blob/master/LICENSE)
